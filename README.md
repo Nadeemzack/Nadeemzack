@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **App development(Android & IOS),Business**
 
-- PLay Store *[https://play.google.com/store/apps/developer?id=Mohd+Numan](https://play.google.com/store/apps/developer?id=Mohd+Numan)
+- PLay Store [https://play.google.com/store/apps/developer?id=Mohd+Numan](https://play.google.com/store/apps/developer?id=Mohd+Numan)
 
 - 📫 How to reach me **nadeemzack09@gmail.com**
 
