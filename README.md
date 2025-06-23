@@ -35,7 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeemzack&show_icons=true&locale=en" alt="nadeemzack" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadeemzack&" alt="Nadeemzack" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
